@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/tjmxomqe/public_html
+group: tjmxomqe
+hascgi: 1
+homedir: /home/tjmxomqe
+ip: 45.252.251.73
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@appgroupth5.xyz
+serveralias: mail.appgroupth5.xyz www.appgroupth5.xyz
+servername: appgroupth5.xyz
+ssl: 1
+usecanonicalname: 'Off'
+user: tjmxomqe
+userdirprotect: ''

@@ -1,0 +1,94 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__appgroupth5_xyz_c2cff_09af3_1641092932_c79822c7ee8dcbe1b9530d1e1fb04a91: 
+      created: '1633320533'
+      domains: 
+        - "*.appgroupth5.xyz"
+        - appgroupth5.xyz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “appgroupth5.xyz” 1633320533.0
+      id: _wildcard__appgroupth5_xyz_c2cff_09af3_1641092932_c79822c7ee8dcbe1b9530d1e1fb04a91
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c2cffe02411339f39c7609162fafa3f5a9e36275f8859c55ea5c01d4f48b0cbfa5174bd2adbd5ce66e52d95f35df6f9d89b14acf8a171279eb0968402e1b2f2dce5ecfea14541d26bc9e7e1eb3c8d49890785a5ef18cc7fde723a1c5227ce15be903a6ec3eb32e8f6d2760c2adf0274da4cea0ae1ea9375be9f0ce7b86cb1e0e0179db1bbccdefe70e054be4788882fb829ec96aeb72839ca64ffa2f608259c470f8457dea576015fa6bcc8771f597aa7e3ed6c7ef9e2cb423154199fba764bfeb84937be675710addc395a884dfd44ca72460ba1b219912324ccb6dbaec4465439a402baccd9dce283d6ebca825657889a7654f9d1a410bcc5bb45d7eb09af3
+      modulus_length: 2048
+      not_after: '1641092932'
+      not_before: '1633316933'
+      serial: 030abb2c560ded539113302ee50954b77cc6
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.appgroupth5.xyz"
+      validation_type: dv
+    appgroupth5_xyz_d8484_84a41_1664849325_167c65abca32a926392f64aab2735066: 
+      created: '1633313325'
+      domains: 
+        - appgroupth5.xyz
+        - mail.appgroupth5.xyz
+        - www.appgroupth5.xyz
+        - cpanel.appgroupth5.xyz
+        - webmail.appgroupth5.xyz
+        - webdisk.appgroupth5.xyz
+        - cpcontacts.appgroupth5.xyz
+        - cpcalendars.appgroupth5.xyz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “appgroupth5.xyz”
+      id: appgroupth5_xyz_d8484_84a41_1664849325_167c65abca32a926392f64aab2735066
+      is_self_signed: 1
+      issuer.commonName: appgroupth5.xyz
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: d84845ad823980ad82417614627d02ab65df2351a0a8c164cc15ccea97296e1a75ea5215a5be6485e9b897ffe668cd816a2384293d940ddd68d6829d740b216f4b6e3f81f814b875f06e393e657851e2c2adc5a6ca99c6412139878292c027df0d18235a71c8b9bf607dffbb4e4a5a1c33c89e4230391d5012a0e5729b6f1c14274184af1d478e772b88738a95a047f689ed4c6fa3c7999eebda265b1d6669053ab37017f3ea647d33e09d02788a0bfc2fff43675c5fbfda973c77576deab774ed7582e4c766285d0bf2b7e40d2b1829ca11108e9a480576384e35c36c317e51d55adff7147c1f932519540cb57fdca51fc6aeca7e8f5b4f37b7743cd0084a41
+      modulus_length: 2048
+      not_after: '1664849325'
+      not_before: '1633313325'
+      serial: d3743a1e
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: appgroupth5.xyz
+      validation_type: ~
+  key: 
+    c2cff_09af3_6e4141c9c0f0845611f24fb27510d251: 
+      created: '1633320533'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “appgroupth5.xyz” 1633320533.0
+      id: c2cff_09af3_6e4141c9c0f0845611f24fb27510d251
+      key_algorithm: rsaEncryption
+      modulus: c2cffe02411339f39c7609162fafa3f5a9e36275f8859c55ea5c01d4f48b0cbfa5174bd2adbd5ce66e52d95f35df6f9d89b14acf8a171279eb0968402e1b2f2dce5ecfea14541d26bc9e7e1eb3c8d49890785a5ef18cc7fde723a1c5227ce15be903a6ec3eb32e8f6d2760c2adf0274da4cea0ae1ea9375be9f0ce7b86cb1e0e0179db1bbccdefe70e054be4788882fb829ec96aeb72839ca64ffa2f608259c470f8457dea576015fa6bcc8771f597aa7e3ed6c7ef9e2cb423154199fba764bfeb84937be675710addc395a884dfd44ca72460ba1b219912324ccb6dbaec4465439a402baccd9dce283d6ebca825657889a7654f9d1a410bcc5bb45d7eb09af3
+      modulus_length: 2048
+    d8484_84a41_96b8d7c4d7cc44fee40010c4a4ea861b: 
+      created: '1633313325'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “appgroupth5.xyz”
+      id: d8484_84a41_96b8d7c4d7cc44fee40010c4a4ea861b
+      key_algorithm: rsaEncryption
+      modulus: d84845ad823980ad82417614627d02ab65df2351a0a8c164cc15ccea97296e1a75ea5215a5be6485e9b897ffe668cd816a2384293d940ddd68d6829d740b216f4b6e3f81f814b875f06e393e657851e2c2adc5a6ca99c6412139878292c027df0d18235a71c8b9bf607dffbb4e4a5a1c33c89e4230391d5012a0e5729b6f1c14274184af1d478e772b88738a95a047f689ed4c6fa3c7999eebda265b1d6669053ab37017f3ea647d33e09d02788a0bfc2fff43675c5fbfda973c77576deab774ed7582e4c766285d0bf2b7e40d2b1829ca11108e9a480576384e35c36c317e51d55adff7147c1f932519540cb57fdca51fc6aeca7e8f5b4f37b7743cd0084a41
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c2cffe02411339f39c7609162fafa3f5a9e36275f8859c55ea5c01d4f48b0cbfa5174bd2adbd5ce66e52d95f35df6f9d89b14acf8a171279eb0968402e1b2f2dce5ecfea14541d26bc9e7e1eb3c8d49890785a5ef18cc7fde723a1c5227ce15be903a6ec3eb32e8f6d2760c2adf0274da4cea0ae1ea9375be9f0ce7b86cb1e0e0179db1bbccdefe70e054be4788882fb829ec96aeb72839ca64ffa2f608259c470f8457dea576015fa6bcc8771f597aa7e3ed6c7ef9e2cb423154199fba764bfeb84937be675710addc395a884dfd44ca72460ba1b219912324ccb6dbaec4465439a402baccd9dce283d6ebca825657889a7654f9d1a410bcc5bb45d7eb09af3: 
+        _wildcard__appgroupth5_xyz_c2cff_09af3_1641092932_c79822c7ee8dcbe1b9530d1e1fb04a91: ~
+      d84845ad823980ad82417614627d02ab65df2351a0a8c164cc15ccea97296e1a75ea5215a5be6485e9b897ffe668cd816a2384293d940ddd68d6829d740b216f4b6e3f81f814b875f06e393e657851e2c2adc5a6ca99c6412139878292c027df0d18235a71c8b9bf607dffbb4e4a5a1c33c89e4230391d5012a0e5729b6f1c14274184af1d478e772b88738a95a047f689ed4c6fa3c7999eebda265b1d6669053ab37017f3ea647d33e09d02788a0bfc2fff43675c5fbfda973c77576deab774ed7582e4c766285d0bf2b7e40d2b1829ca11108e9a480576384e35c36c317e51d55adff7147c1f932519540cb57fdca51fc6aeca7e8f5b4f37b7743cd0084a41: 
+        appgroupth5_xyz_d8484_84a41_1664849325_167c65abca32a926392f64aab2735066: ~
+    subject.commonName: 
+      "*.appgroupth5.xyz": 
+        _wildcard__appgroupth5_xyz_c2cff_09af3_1641092932_c79822c7ee8dcbe1b9530d1e1fb04a91: ~
+      appgroupth5.xyz: 
+        appgroupth5_xyz_d8484_84a41_1664849325_167c65abca32a926392f64aab2735066: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “appgroupth5.xyz”: appgroupth5_xyz_d8484_84a41_1664849325_167c65abca32a926392f64aab2735066
+      Cert for “appgroupth5.xyz” 1633320533.0: _wildcard__appgroupth5_xyz_c2cff_09af3_1641092932_c79822c7ee8dcbe1b9530d1e1fb04a91
+  key: 
+    friendly_name: 
+      Key for “appgroupth5.xyz”: d8484_84a41_96b8d7c4d7cc44fee40010c4a4ea861b
+      Key for “appgroupth5.xyz” 1633320533.0: c2cff_09af3_6e4141c9c0f0845611f24fb27510d251
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      c2cffe02411339f39c7609162fafa3f5a9e36275f8859c55ea5c01d4f48b0cbfa5174bd2adbd5ce66e52d95f35df6f9d89b14acf8a171279eb0968402e1b2f2dce5ecfea14541d26bc9e7e1eb3c8d49890785a5ef18cc7fde723a1c5227ce15be903a6ec3eb32e8f6d2760c2adf0274da4cea0ae1ea9375be9f0ce7b86cb1e0e0179db1bbccdefe70e054be4788882fb829ec96aeb72839ca64ffa2f608259c470f8457dea576015fa6bcc8771f597aa7e3ed6c7ef9e2cb423154199fba764bfeb84937be675710addc395a884dfd44ca72460ba1b219912324ccb6dbaec4465439a402baccd9dce283d6ebca825657889a7654f9d1a410bcc5bb45d7eb09af3: c2cff_09af3_6e4141c9c0f0845611f24fb27510d251
+      d84845ad823980ad82417614627d02ab65df2351a0a8c164cc15ccea97296e1a75ea5215a5be6485e9b897ffe668cd816a2384293d940ddd68d6829d740b216f4b6e3f81f814b875f06e393e657851e2c2adc5a6ca99c6412139878292c027df0d18235a71c8b9bf607dffbb4e4a5a1c33c89e4230391d5012a0e5729b6f1c14274184af1d478e772b88738a95a047f689ed4c6fa3c7999eebda265b1d6669053ab37017f3ea647d33e09d02788a0bfc2fff43675c5fbfda973c77576deab774ed7582e4c766285d0bf2b7e40d2b1829ca11108e9a480576384e35c36c317e51d55adff7147c1f932519540cb57fdca51fc6aeca7e8f5b4f37b7743cd0084a41: d8484_84a41_96b8d7c4d7cc44fee40010c4a4ea861b

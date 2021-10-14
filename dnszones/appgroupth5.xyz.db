@@ -1,0 +1,24 @@
+; cPanel first:98.0.8 (update_time):1634102014 Cpanel::ZoneFile::VERSION:1.3 hostname:hv23-24822.azdigihost.com latest:98.0.9
+; Zone file for appgroupth5.xyz
+$TTL 14400
+appgroupth5.xyz.	86400	IN	SOA	ns3.azdigi.com.	hosting-admin.azdigi.com.	(
+						2021101300 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+
+appgroupth5.xyz.	86400	IN	NS	ns3.azdigi.com.
+appgroupth5.xyz.	86400	IN	NS	ns4.azdigi.com.
+
+
+appgroupth5.xyz.	14400	IN	A	45.252.251.73
+
+appgroupth5.xyz.	14400	IN	MX	0	appgroupth5.xyz.
+
+mail	14400	IN	CNAME	appgroupth5.xyz.
+www	14400	IN	CNAME	appgroupth5.xyz.
+ftp	14400	IN	A	45.252.251.73
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4uHJYZlQdladpay66xY5QEJYN0ifoGa875H2WEH4ro0Z7Y2hMCcF9QW/+e7fpymmc0GrdJvii3SBG5iiQNJ4VU4gyr5anb3NKLkZ/8CIpw8IaRyI/dzYgyUOFP3w0mKxIxRTI9r9kcn8ptBRp3Vc5r85a71W4kMoKscuQfx9ZJLMwqoxmzLrA357DGzgaFFpQ" 7XAn1qJZ7A4BLhC3QXSs9RG5ErPTqs7s562RZEyJjzUwzzzb7U74EOg1d+p3/Lvg3+b3k8Ca/y36lmV5G8kPHAM6+/bveXMXpceDuSSqbDFh+pn7YM7lyPbwiTgwqJXvXgQFh8F+pn8LZ8rDjf+YQIDAQAB\;
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=D2_MyLmSHBQjPCItN5rptcdvrPewZGrGzQLnwhF7RTyfNKsUMjUzVMEBrroREk71
+_acme-challenge	14400	IN	TXT	sMvIC2MNFs7PE96AkuNy619v8dT3sEKiXZCNucsPes0

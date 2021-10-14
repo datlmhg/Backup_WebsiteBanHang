@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/appgroupth5.xyz
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/appgroupth5.xyz-bytes_log
+documentroot: /home/tjmxomqe/public_html
+group: tjmxomqe
+hascgi: 1
+homedir: /home/tjmxomqe
+ip: 45.252.251.73
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/tjmxomqe/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@appgroupth5.xyz
+serveralias: mail.appgroupth5.xyz www.appgroupth5.xyz
+servername: appgroupth5.xyz
+usecanonicalname: 'Off'
+user: tjmxomqe

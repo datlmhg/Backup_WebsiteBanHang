@@ -1,0 +1,1840 @@
+[05-Oct-2021 07:02:39 UTC] PHP Warning:  sprintf(): Too few arguments in /home/tjmxomqe/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Oct-2021 07:02:49 UTC] PHP Warning:  sprintf(): Too few arguments in /home/tjmxomqe/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Oct-2021 07:02:54 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Table 'tjmxomqe_wp668.wpzd_social_users' doesn't exist với truy vấn ALTER TABLE wpzd_social_users ADD `social_users_id` int NOT NULL AUTO_INCREMENT PRIMARY KEY; yêu cầu bởi require_once('wp-admin/admin.php'), do_action('appearance_page_tgmpa-install-plugins'), WP_Hook->do_action, WP_Hook->apply_filters, TGM_Plugin_Activation->install_plugins_page, TGMPA_List_Table->prepare_items, TGMPA_List_Table->process_bulk_actions, activate_plugins, activate_plugin, do_action('activate_nextend-facebook-connect/nextend-facebook-connect.php'), WP_Hook->do_action, WP_Hook->apply_filters, NextendSocialLogin::install
+[05-Oct-2021 07:03:07 UTC] PHP Warning:  sprintf(): Too few arguments in /home/tjmxomqe/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Oct-2021 07:03:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
+[06-Oct-2021 03:46:03 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Table 'tjmxomqe_wp668.wpzd_mcwp_coins' doesn't exist với truy vấn ALTER TABLE wpzd_mcwp_coins ADD COLUMN img VARCHAR(150) NOT NULL AFTER rank yêu cầu bởi activate_plugin, plugin_sandbox_scrape, include_once('/plugins/cryptocurrency-widgets-pack/cryptocurrency-widgets-pack.php'), MCWP_Crypto, MCWP_Crypto::get_instance, MCWP_Crypto->__construct, MCWP_Crypto->upgrade_version
+[06-Oct-2021 07:13:07 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:13:35 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:14:03 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:15:11 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:29:13 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:29:19 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:30:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/background-music-menu/uninstall.php on line 6
+[06-Oct-2021 07:55:04 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:55:08 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function '' not found or invalid function name in /home/tjmxomqe/public_html/wp-admin/includes/template.php on line 1743
+[06-Oct-2021 07:55:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/background-music-menu/uninstall.php on line 6
+[07-Oct-2021 01:00:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:00:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:00:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:00:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:02:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:03:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:04:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:05:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:05:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:05:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:05:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/mycryptocheckout/src/currencies_trait.php on line 48
+[07-Oct-2021 01:24:12 UTC] content json - <pre>Array
+(
+    [original_term_id] => 2
+    [original_term_slug] => songs-with-thumbnails
+    [original_term_name] => Songs with thumbnails
+    [original_site_url] => http://devsite/wpfactory/reset-data
+    [export_type] => meta_term
+    [term_meta] => Array
+        (
+            [dzsap_meta_type] => skin-aura
+            [galleryskin] => skin-aura
+            [vpconfig] => skinwave-with-comments
+            [mode] => mode-normal
+            [enable_linking] => on
+            [bgcolor] => 
+            [disable_player_navigation] => off
+            [menuposition] => bottom
+            [design_menu_state] => open
+            [media_image] => 
+            [subtitle] => 
+            [color] => 
+            [menu_facebook_share] => auto
+            [menu_like_button] => auto
+            [design_menu_height] => 
+            [cuefirstmedia] => on
+            [autoplay] => off
+            [autoplay_next] => on
+            [enable_views] => off
+            [enable_downloads_counter] => off
+            [enable_likes] => off
+            [settings_mode_showall_show_number] => off
+            [enable_rates] => off
+            [orderby] => custom
+            [mode_showall_layout] => 
+            [gallery_play_in_footer_player] => on
+            [enable_bg_wrapper] => off
+            [design_menu_show_player_state_button] => off
+            [mode_normal_video_mode] => 
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 4
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content from sample
+                    [post_title] => Wake Me Up
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => test-replace-id3
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:35:02
+                    [post_modified_gmt] => 2019-12-29 18:35:02
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/test-replace-id3/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Artist
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+                    [songname] => Wake Me Up
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/UfKtG6r.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/UfKtG6r.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => off
+                    [play_in_footer_player] => off
+                    [dzsap_meta_enable_download_button] => on
+                    [enable_download_button] => on
+                    [dzsap_meta_download_custom_link_enable] => off
+                    [download_custom_link_enable] => off
+                    [dzsap_meta_download_custom_link] => off
+                    [download_custom_link] => off
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => default
+                    [config] => default
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => {{id3}}
+                    [replace_songname] => {{id3}}
+                    [dzsap_meta_replace_artistname] => artist name
+                    [replace_artistname] => artist name
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [1] => Array
+                (
+                    [ID] => 5
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content here
+                    [post_title] => I'm on You
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => rebel-song-12345
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:35:12
+                    [post_modified_gmt] => 2019-12-29 18:35:12
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/rebel-song-12345/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Maria Sherva
+                    [menu_artistname] => men uartist name
+                    [menu_songname] => none
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+                    [songname] => I'm on You
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/J1DFP4Q.jpg
+                    [type] => 
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => 
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/J1DFP4Q.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => on
+                    [enable_download_button] => on
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => none
+                    [replace_menu_songname] => none
+                    [dzsap_meta_replace_menu_artistname] => men uartist name
+                    [replace_menu_artistname] => men uartist name
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => {{id3}}
+                    [replace_songname] => {{id3}}
+                    [dzsap_meta_replace_artistname] => Artist name
+                    [replace_artistname] => Artist name
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [2] => Array
+                (
+                    [ID] => 6
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content here
+                    [post_title] => Fourteen days
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => gall4
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:36:15
+                    [post_modified_gmt] => 2019-12-29 18:36:15
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/gall4/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Backstreet boys
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+                    [songname] => Fourteen days
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/gbcQ8xq.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/gbcQ8xq.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [3] => Array
+                (
+                    [ID] => 7
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => test
+                    [post_title] => Concert hall
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => longer-extra-html
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:36:53
+                    [post_modified_gmt] => 2019-12-29 18:36:53
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/longer-extra-html/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Chorus
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [songname] => Concert hall
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/lNEOd8C.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/lNEOd8C.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [4] => Array
+                (
+                    [ID] => 9
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:37:40
+                    [post_date_gmt] => 2019-12-29 18:37:40
+                    [post_content] => content here
+                    [post_title] => Till midnight
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => gall5
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:37:54
+                    [post_modified_gmt] => 2019-12-29 18:37:54
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/gall5/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => The Lone Wolf
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [songname] => Till midnight
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/VusRzO1.jpg
+                    [type] => detect
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => detect
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/VusRzO1.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+        )
+
+)
+</pre>
+[07-Oct-2021 01:24:12 UTC] $arr empty ? Array
+(
+    [original_term_id] => 2
+    [original_term_slug] => songs-with-thumbnails
+    [original_term_name] => Songs with thumbnails
+    [original_site_url] => http://devsite/wpfactory/reset-data
+    [export_type] => meta_term
+    [term_meta] => Array
+        (
+            [dzsap_meta_type] => skin-aura
+            [galleryskin] => skin-aura
+            [vpconfig] => skinwave-with-comments
+            [mode] => mode-normal
+            [enable_linking] => on
+            [bgcolor] => 
+            [disable_player_navigation] => off
+            [menuposition] => bottom
+            [design_menu_state] => open
+            [media_image] => 
+            [subtitle] => 
+            [color] => 
+            [menu_facebook_share] => auto
+            [menu_like_button] => auto
+            [design_menu_height] => 
+            [cuefirstmedia] => on
+            [autoplay] => off
+            [autoplay_next] => on
+            [enable_views] => off
+            [enable_downloads_counter] => off
+            [enable_likes] => off
+            [settings_mode_showall_show_number] => off
+            [enable_rates] => off
+            [orderby] => custom
+            [mode_showall_layout] => 
+            [gallery_play_in_footer_player] => on
+            [enable_bg_wrapper] => off
+            [design_menu_show_player_state_button] => off
+            [mode_normal_video_mode] => 
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 4
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content from sample
+                    [post_title] => Wake Me Up
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => test-replace-id3
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:35:02
+                    [post_modified_gmt] => 2019-12-29 18:35:02
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/test-replace-id3/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Artist
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+                    [songname] => Wake Me Up
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/UfKtG6r.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/UfKtG6r.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => off
+                    [play_in_footer_player] => off
+                    [dzsap_meta_enable_download_button] => on
+                    [enable_download_button] => on
+                    [dzsap_meta_download_custom_link_enable] => off
+                    [download_custom_link_enable] => off
+                    [dzsap_meta_download_custom_link] => off
+                    [download_custom_link] => off
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => default
+                    [config] => default
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => {{id3}}
+                    [replace_songname] => {{id3}}
+                    [dzsap_meta_replace_artistname] => artist name
+                    [replace_artistname] => artist name
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [1] => Array
+                (
+                    [ID] => 5
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content here
+                    [post_title] => I'm on You
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => rebel-song-12345
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:35:12
+                    [post_modified_gmt] => 2019-12-29 18:35:12
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/rebel-song-12345/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Maria Sherva
+                    [menu_artistname] => men uartist name
+                    [menu_songname] => none
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+                    [songname] => I'm on You
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/J1DFP4Q.jpg
+                    [type] => 
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => 
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/J1DFP4Q.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => on
+                    [enable_download_button] => on
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => none
+                    [replace_menu_songname] => none
+                    [dzsap_meta_replace_menu_artistname] => men uartist name
+                    [replace_menu_artistname] => men uartist name
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => {{id3}}
+                    [replace_songname] => {{id3}}
+                    [dzsap_meta_replace_artistname] => Artist name
+                    [replace_artistname] => Artist name
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [2] => Array
+                (
+                    [ID] => 6
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => content here
+                    [post_title] => Fourteen days
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => gall4
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:36:15
+                    [post_modified_gmt] => 2019-12-29 18:36:15
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/gall4/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Backstreet boys
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+                    [songname] => Fourteen days
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/gbcQ8xq.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/gbcQ8xq.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [3] => Array
+                (
+                    [ID] => 7
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:29:14
+                    [post_date_gmt] => 2019-12-29 18:29:14
+                    [post_content] => test
+                    [post_title] => Concert hall
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => longer-extra-html
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:36:53
+                    [post_modified_gmt] => 2019-12-29 18:36:53
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/longer-extra-html/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => Chorus
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [songname] => Concert hall
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/lNEOd8C.jpg
+                    [type] => audio
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => audio
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/lNEOd8C.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+            [4] => Array
+                (
+                    [ID] => 9
+                    [post_author] => 1
+                    [post_date] => 2019-12-29 18:37:40
+                    [post_date_gmt] => 2019-12-29 18:37:40
+                    [post_content] => content here
+                    [post_title] => Till midnight
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => gall5
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2019-12-29 18:37:54
+                    [post_modified_gmt] => 2019-12-29 18:37:54
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://devsite/wpfactory/reset-data/audio/gall5/
+                    [menu_order] => 0
+                    [post_type] => dzsap_items
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                    [artistname] => The Lone Wolf
+                    [sourceogg] => 
+                    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [songname] => Till midnight
+                    [playfrom] => 
+                    [thumb] => https://i.imgur.com/VusRzO1.jpg
+                    [type] => detect
+                    [playerid] => 
+                    [the_post_title] => 
+                    [dzsap_meta_type] => detect
+                    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+                    [dzsap_meta_item_thumb] => https://i.imgur.com/VusRzO1.jpg
+                    [dzsap_meta_playfrom] => 
+                    [dzsap_meta_type_normal_stream_type] => 
+                    [type_normal_stream_type] => 
+                    [dzsap_meta_play_in_footer_player] => 
+                    [play_in_footer_player] => 
+                    [dzsap_meta_enable_download_button] => 
+                    [enable_download_button] => 
+                    [dzsap_meta_download_custom_link_enable] => 
+                    [download_custom_link_enable] => 
+                    [dzsap_meta_download_custom_link] => 
+                    [download_custom_link] => 
+                    [dzsap_meta_item_extra_classes_player] => 
+                    [extra_classes_player] => 
+                    [dzsap_meta_replace_menu_songname] => 
+                    [replace_menu_songname] => 
+                    [dzsap_meta_replace_menu_artistname] => 
+                    [replace_menu_artistname] => 
+                    [extrahtml_in_bottom_controls_from_player] => 
+                    [extrahtml_in_float_right_from_player] => 
+                    [dzsap_meta_config] => 
+                    [config] => 
+                    [dzsap_meta_cover] => 
+                    [cover] => 
+                    [dzsap_meta_autoplay] => 
+                    [autoplay] => 
+                    [dzsap_meta_loop] => 
+                    [loop] => 
+                    [dzsap_meta_open_in_ultibox] => 
+                    [open_in_ultibox] => 
+                    [dzsap_meta_enable_likes] => 
+                    [enable_likes] => 
+                    [dzsap_meta_enable_views] => 
+                    [enable_views] => 
+                    [dzsap_meta_itunes_link] => 
+                    [itunes_link] => 
+                    [dzsap_meta_playerid] => 
+                    [dzsap_meta_replace_songname] => 
+                    [replace_songname] => 
+                    [dzsap_meta_replace_artistname] => 
+                    [replace_artistname] => 
+                    [dzsap_meta_wrapper_image] => 
+                    [wrapper_image] => 
+                    [dzsap_meta_wrapper_image_type] => 
+                    [wrapper_image_type] => 
+                    [dzsap_meta_productid] => 
+                    [productid] => 
+                )
+
+        )
+
+)
+
+[07-Oct-2021 01:24:12 UTC] new slug - songs-with-thumbnails
+[07-Oct-2021 01:24:12 UTC]  item import - <pre>Array
+(
+    [post_title] => Wake Me Up
+    [call_from] => import_slider items json
+    [post_content] => content from sample
+    [post_type] => dzsap_items
+    [post_status] => private
+    [post_name] => test-replace-id3
+    [img_url] => 
+    [img_path] => 
+    [term] => songs-with-thumbnails
+    [taxonomy] => dzsap_sliders
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [ID] => 4
+    [post_author] => 1
+    [post_date] => 2019-12-29 18:29:14
+    [post_date_gmt] => 2019-12-29 18:29:14
+    [post_excerpt] => 
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2019-12-29 18:35:02
+    [post_modified_gmt] => 2019-12-29 18:35:02
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://devsite/wpfactory/reset-data/audio/test-replace-id3/
+    [menu_order] => 0
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+    [artistname] => Artist
+    [sourceogg] => 
+    [source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+    [songname] => Wake Me Up
+    [playfrom] => 
+    [thumb] => https://i.imgur.com/UfKtG6r.jpg
+    [type] => audio
+    [playerid] => 
+    [the_post_title] => 
+    [dzsap_meta_type] => audio
+    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/37.mp3
+    [dzsap_meta_item_thumb] => https://i.imgur.com/UfKtG6r.jpg
+    [dzsap_meta_playfrom] => 
+    [dzsap_meta_type_normal_stream_type] => 
+    [type_normal_stream_type] => 
+    [dzsap_meta_play_in_footer_player] => off
+    [play_in_footer_player] => off
+    [dzsap_meta_enable_download_button] => on
+    [enable_download_button] => on
+    [dzsap_meta_download_custom_link_enable] => off
+    [download_custom_link_enable] => off
+    [dzsap_meta_download_custom_link] => off
+    [download_custom_link] => off
+    [dzsap_meta_item_extra_classes_player] => 
+    [extra_classes_player] => 
+    [dzsap_meta_replace_menu_songname] => 
+    [replace_menu_songname] => 
+    [dzsap_meta_replace_menu_artistname] => 
+    [replace_menu_artistname] => 
+    [extrahtml_in_bottom_controls_from_player] => 
+    [extrahtml_in_float_right_from_player] => 
+    [dzsap_meta_config] => default
+    [config] => default
+    [dzsap_meta_cover] => 
+    [cover] => 
+    [dzsap_meta_autoplay] => 
+    [autoplay] => 
+    [dzsap_meta_loop] => 
+    [loop] => 
+    [dzsap_meta_open_in_ultibox] => 
+    [open_in_ultibox] => 
+    [dzsap_meta_enable_likes] => 
+    [enable_likes] => 
+    [dzsap_meta_enable_views] => 
+    [enable_views] => 
+    [dzsap_meta_itunes_link] => 
+    [itunes_link] => 
+    [dzsap_meta_playerid] => 
+    [dzsap_meta_replace_songname] => {{id3}}
+    [replace_songname] => {{id3}}
+    [dzsap_meta_replace_artistname] => artist name
+    [replace_artistname] => artist name
+    [dzsap_meta_wrapper_image] => 
+    [wrapper_image] => 
+    [dzsap_meta_wrapper_image_type] => 
+    [wrapper_image_type] => 
+    [dzsap_meta_productid] => 
+    [productid] => 
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Wake Me Up
+    [post_content] => content from sample
+    [post_status] => private
+    [post_name] => test-replace-id3
+)
+</pre>
+[07-Oct-2021 01:24:13 UTC] new slug - songs-with-thumbnails
+[07-Oct-2021 01:24:13 UTC]  item import - <pre>Array
+(
+    [post_title] => I'm on You
+    [call_from] => import_slider items json
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => rebel-song-12345
+    [img_url] => 
+    [img_path] => 
+    [term] => songs-with-thumbnails
+    [taxonomy] => dzsap_sliders
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [ID] => 5
+    [post_author] => 1
+    [post_date] => 2019-12-29 18:29:14
+    [post_date_gmt] => 2019-12-29 18:29:14
+    [post_excerpt] => 
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2019-12-29 18:35:12
+    [post_modified_gmt] => 2019-12-29 18:35:12
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://devsite/wpfactory/reset-data/audio/rebel-song-12345/
+    [menu_order] => 0
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+    [artistname] => Maria Sherva
+    [menu_artistname] => men uartist name
+    [menu_songname] => none
+    [sourceogg] => 
+    [source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+    [songname] => I'm on You
+    [playfrom] => 
+    [thumb] => https://i.imgur.com/J1DFP4Q.jpg
+    [type] => 
+    [playerid] => 
+    [the_post_title] => 
+    [dzsap_meta_type] => 
+    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/2514.mp3
+    [dzsap_meta_item_thumb] => https://i.imgur.com/J1DFP4Q.jpg
+    [dzsap_meta_playfrom] => 
+    [dzsap_meta_type_normal_stream_type] => 
+    [type_normal_stream_type] => 
+    [dzsap_meta_play_in_footer_player] => 
+    [play_in_footer_player] => 
+    [dzsap_meta_enable_download_button] => on
+    [enable_download_button] => on
+    [dzsap_meta_download_custom_link_enable] => 
+    [download_custom_link_enable] => 
+    [dzsap_meta_download_custom_link] => 
+    [download_custom_link] => 
+    [dzsap_meta_item_extra_classes_player] => 
+    [extra_classes_player] => 
+    [dzsap_meta_replace_menu_songname] => none
+    [replace_menu_songname] => none
+    [dzsap_meta_replace_menu_artistname] => men uartist name
+    [replace_menu_artistname] => men uartist name
+    [extrahtml_in_bottom_controls_from_player] => 
+    [extrahtml_in_float_right_from_player] => 
+    [dzsap_meta_config] => 
+    [config] => 
+    [dzsap_meta_cover] => 
+    [cover] => 
+    [dzsap_meta_autoplay] => 
+    [autoplay] => 
+    [dzsap_meta_loop] => 
+    [loop] => 
+    [dzsap_meta_open_in_ultibox] => 
+    [open_in_ultibox] => 
+    [dzsap_meta_enable_likes] => 
+    [enable_likes] => 
+    [dzsap_meta_enable_views] => 
+    [enable_views] => 
+    [dzsap_meta_itunes_link] => 
+    [itunes_link] => 
+    [dzsap_meta_playerid] => 
+    [dzsap_meta_replace_songname] => {{id3}}
+    [replace_songname] => {{id3}}
+    [dzsap_meta_replace_artistname] => Artist name
+    [replace_artistname] => Artist name
+    [dzsap_meta_wrapper_image] => 
+    [wrapper_image] => 
+    [dzsap_meta_wrapper_image_type] => 
+    [wrapper_image_type] => 
+    [dzsap_meta_productid] => 
+    [productid] => 
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => I'm on You
+    [post_content] => content here
+    [post_status] => publish
+    [post_name] => rebel-song-12345
+)
+</pre>
+[07-Oct-2021 01:24:13 UTC] new slug - songs-with-thumbnails
+[07-Oct-2021 01:24:13 UTC]  item import - <pre>Array
+(
+    [post_title] => Fourteen days
+    [call_from] => import_slider items json
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => gall4
+    [img_url] => 
+    [img_path] => 
+    [term] => songs-with-thumbnails
+    [taxonomy] => dzsap_sliders
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [ID] => 6
+    [post_author] => 1
+    [post_date] => 2019-12-29 18:29:14
+    [post_date_gmt] => 2019-12-29 18:29:14
+    [post_excerpt] => 
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2019-12-29 18:36:15
+    [post_modified_gmt] => 2019-12-29 18:36:15
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://devsite/wpfactory/reset-data/audio/gall4/
+    [menu_order] => 0
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+    [artistname] => Backstreet boys
+    [sourceogg] => 
+    [source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+    [songname] => Fourteen days
+    [playfrom] => 
+    [thumb] => https://i.imgur.com/gbcQ8xq.jpg
+    [type] => audio
+    [playerid] => 
+    [the_post_title] => 
+    [dzsap_meta_type] => audio
+    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3717.mp3
+    [dzsap_meta_item_thumb] => https://i.imgur.com/gbcQ8xq.jpg
+    [dzsap_meta_playfrom] => 
+    [dzsap_meta_type_normal_stream_type] => 
+    [type_normal_stream_type] => 
+    [dzsap_meta_play_in_footer_player] => 
+    [play_in_footer_player] => 
+    [dzsap_meta_enable_download_button] => 
+    [enable_download_button] => 
+    [dzsap_meta_download_custom_link_enable] => 
+    [download_custom_link_enable] => 
+    [dzsap_meta_download_custom_link] => 
+    [download_custom_link] => 
+    [dzsap_meta_item_extra_classes_player] => 
+    [extra_classes_player] => 
+    [dzsap_meta_replace_menu_songname] => 
+    [replace_menu_songname] => 
+    [dzsap_meta_replace_menu_artistname] => 
+    [replace_menu_artistname] => 
+    [extrahtml_in_bottom_controls_from_player] => 
+    [extrahtml_in_float_right_from_player] => 
+    [dzsap_meta_config] => 
+    [config] => 
+    [dzsap_meta_cover] => 
+    [cover] => 
+    [dzsap_meta_autoplay] => 
+    [autoplay] => 
+    [dzsap_meta_loop] => 
+    [loop] => 
+    [dzsap_meta_open_in_ultibox] => 
+    [open_in_ultibox] => 
+    [dzsap_meta_enable_likes] => 
+    [enable_likes] => 
+    [dzsap_meta_enable_views] => 
+    [enable_views] => 
+    [dzsap_meta_itunes_link] => 
+    [itunes_link] => 
+    [dzsap_meta_playerid] => 
+    [dzsap_meta_replace_songname] => 
+    [replace_songname] => 
+    [dzsap_meta_replace_artistname] => 
+    [replace_artistname] => 
+    [dzsap_meta_wrapper_image] => 
+    [wrapper_image] => 
+    [dzsap_meta_wrapper_image_type] => 
+    [wrapper_image_type] => 
+    [dzsap_meta_productid] => 
+    [productid] => 
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Fourteen days
+    [post_content] => content here
+    [post_status] => publish
+    [post_name] => gall4
+)
+</pre>
+[07-Oct-2021 01:24:13 UTC] new slug - songs-with-thumbnails
+[07-Oct-2021 01:24:13 UTC]  item import - <pre>Array
+(
+    [post_title] => Concert hall
+    [call_from] => import_slider items json
+    [post_content] => test
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => longer-extra-html
+    [img_url] => 
+    [img_path] => 
+    [term] => songs-with-thumbnails
+    [taxonomy] => dzsap_sliders
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [ID] => 7
+    [post_author] => 1
+    [post_date] => 2019-12-29 18:29:14
+    [post_date_gmt] => 2019-12-29 18:29:14
+    [post_excerpt] => 
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2019-12-29 18:36:53
+    [post_modified_gmt] => 2019-12-29 18:36:53
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://devsite/wpfactory/reset-data/audio/longer-extra-html/
+    [menu_order] => 0
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+    [artistname] => Chorus
+    [sourceogg] => 
+    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+    [songname] => Concert hall
+    [playfrom] => 
+    [thumb] => https://i.imgur.com/lNEOd8C.jpg
+    [type] => audio
+    [playerid] => 
+    [the_post_title] => 
+    [dzsap_meta_type] => audio
+    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+    [dzsap_meta_item_thumb] => https://i.imgur.com/lNEOd8C.jpg
+    [dzsap_meta_playfrom] => 
+    [dzsap_meta_type_normal_stream_type] => 
+    [type_normal_stream_type] => 
+    [dzsap_meta_play_in_footer_player] => 
+    [play_in_footer_player] => 
+    [dzsap_meta_enable_download_button] => 
+    [enable_download_button] => 
+    [dzsap_meta_download_custom_link_enable] => 
+    [download_custom_link_enable] => 
+    [dzsap_meta_download_custom_link] => 
+    [download_custom_link] => 
+    [dzsap_meta_item_extra_classes_player] => 
+    [extra_classes_player] => 
+    [dzsap_meta_replace_menu_songname] => 
+    [replace_menu_songname] => 
+    [dzsap_meta_replace_menu_artistname] => 
+    [replace_menu_artistname] => 
+    [extrahtml_in_bottom_controls_from_player] => 
+    [extrahtml_in_float_right_from_player] => 
+    [dzsap_meta_config] => 
+    [config] => 
+    [dzsap_meta_cover] => 
+    [cover] => 
+    [dzsap_meta_autoplay] => 
+    [autoplay] => 
+    [dzsap_meta_loop] => 
+    [loop] => 
+    [dzsap_meta_open_in_ultibox] => 
+    [open_in_ultibox] => 
+    [dzsap_meta_enable_likes] => 
+    [enable_likes] => 
+    [dzsap_meta_enable_views] => 
+    [enable_views] => 
+    [dzsap_meta_itunes_link] => 
+    [itunes_link] => 
+    [dzsap_meta_playerid] => 
+    [dzsap_meta_replace_songname] => 
+    [replace_songname] => 
+    [dzsap_meta_replace_artistname] => 
+    [replace_artistname] => 
+    [dzsap_meta_wrapper_image] => 
+    [wrapper_image] => 
+    [dzsap_meta_wrapper_image_type] => 
+    [wrapper_image_type] => 
+    [dzsap_meta_productid] => 
+    [productid] => 
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Concert hall
+    [post_content] => test
+    [post_status] => publish
+    [post_name] => longer-extra-html
+)
+</pre>
+[07-Oct-2021 01:24:13 UTC] new slug - songs-with-thumbnails
+[07-Oct-2021 01:24:13 UTC]  item import - <pre>Array
+(
+    [post_title] => Till midnight
+    [call_from] => import_slider items json
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => gall5
+    [img_url] => 
+    [img_path] => 
+    [term] => songs-with-thumbnails
+    [taxonomy] => dzsap_sliders
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [ID] => 9
+    [post_author] => 1
+    [post_date] => 2019-12-29 18:37:40
+    [post_date_gmt] => 2019-12-29 18:37:40
+    [post_excerpt] => 
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2019-12-29 18:37:54
+    [post_modified_gmt] => 2019-12-29 18:37:54
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://devsite/wpfactory/reset-data/audio/gall5/
+    [menu_order] => 0
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+    [artistname] => The Lone Wolf
+    [sourceogg] => 
+    [source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+    [songname] => Till midnight
+    [playfrom] => 
+    [thumb] => https://i.imgur.com/VusRzO1.jpg
+    [type] => detect
+    [playerid] => 
+    [the_post_title] => 
+    [dzsap_meta_type] => detect
+    [dzsap_meta_item_source] => http://www.noiseaddicts.com/samples_1w72b820/3718.mp3
+    [dzsap_meta_item_thumb] => https://i.imgur.com/VusRzO1.jpg
+    [dzsap_meta_playfrom] => 
+    [dzsap_meta_type_normal_stream_type] => 
+    [type_normal_stream_type] => 
+    [dzsap_meta_play_in_footer_player] => 
+    [play_in_footer_player] => 
+    [dzsap_meta_enable_download_button] => 
+    [enable_download_button] => 
+    [dzsap_meta_download_custom_link_enable] => 
+    [download_custom_link_enable] => 
+    [dzsap_meta_download_custom_link] => 
+    [download_custom_link] => 
+    [dzsap_meta_item_extra_classes_player] => 
+    [extra_classes_player] => 
+    [dzsap_meta_replace_menu_songname] => 
+    [replace_menu_songname] => 
+    [dzsap_meta_replace_menu_artistname] => 
+    [replace_menu_artistname] => 
+    [extrahtml_in_bottom_controls_from_player] => 
+    [extrahtml_in_float_right_from_player] => 
+    [dzsap_meta_config] => 
+    [config] => 
+    [dzsap_meta_cover] => 
+    [cover] => 
+    [dzsap_meta_autoplay] => 
+    [autoplay] => 
+    [dzsap_meta_loop] => 
+    [loop] => 
+    [dzsap_meta_open_in_ultibox] => 
+    [open_in_ultibox] => 
+    [dzsap_meta_enable_likes] => 
+    [enable_likes] => 
+    [dzsap_meta_enable_views] => 
+    [enable_views] => 
+    [dzsap_meta_itunes_link] => 
+    [itunes_link] => 
+    [dzsap_meta_playerid] => 
+    [dzsap_meta_replace_songname] => 
+    [replace_songname] => 
+    [dzsap_meta_replace_artistname] => 
+    [replace_artistname] => 
+    [dzsap_meta_wrapper_image] => 
+    [wrapper_image] => 
+    [dzsap_meta_wrapper_image_type] => 
+    [wrapper_image_type] => 
+    [dzsap_meta_productid] => 
+    [productid] => 
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Till midnight
+    [post_content] => content here
+    [post_status] => publish
+    [post_name] => gall5
+)
+</pre>
+[07-Oct-2021 01:24:13 UTC] do_backup() 1633569853
+[07-Oct-2021 01:26:58 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/tjmxomqe/public_html/wp-content/plugins/dzs-zoomsounds/class_parts/class-ajax-functions.php on line 558
+[07-Oct-2021 01:26:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/dzs-zoomsounds/class_parts/class-ajax-functions.php on line 560
+[07-Oct-2021 01:27:02 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/tjmxomqe/public_html/wp-content/plugins/dzs-zoomsounds/class_parts/class-ajax-functions.php on line 558
+[07-Oct-2021 01:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tjmxomqe/public_html/wp-content/plugins/dzs-zoomsounds/class_parts/class-ajax-functions.php on line 560
+[07-Oct-2021 01:27:59 UTC] term_exists - zoomsounds-product-playlist-285 --- dzsap_sliders --- 
+[07-Oct-2021 01:29:15 UTC]  item import - <pre>Array
+(
+    [post_title] => Tình Bạn Diệu Kỳ (Masew Remix)
+    [call_from] => send queue from sliders admin
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => 
+    [img_url] => 
+    [img_path] => 
+    [term] => 
+    [taxonomy] => 
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [post_author] => 5
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Tình Bạn Diệu Kỳ (Masew Remix)
+    [post_content] => content here
+    [post_status] => publish
+)
+</pre>
+[07-Oct-2021 01:29:15 UTC]  item import - <pre>Array
+(
+    [post_title] => Cưới Thôi
+    [call_from] => send queue from sliders admin
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => 
+    [img_url] => 
+    [img_path] => 
+    [term] => 
+    [taxonomy] => 
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [post_author] => 5
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Cưới Thôi
+    [post_content] => content here
+    [post_status] => publish
+)
+</pre>
+[07-Oct-2021 01:29:15 UTC]  item import - <pre>Array
+(
+    [post_title] => Cậu Cả
+    [call_from] => send queue from sliders admin
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => 
+    [img_url] => 
+    [img_path] => 
+    [term] => 
+    [taxonomy] => 
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [post_author] => 5
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Cậu Cả
+    [post_content] => content here
+    [post_status] => publish
+)
+</pre>
+[07-Oct-2021 01:29:15 UTC]  item import - <pre>Array
+(
+    [post_title] => Lối Nhỏ - Đen ft. Phương Anh Đào
+    [call_from] => send queue from sliders admin
+    [post_content] => content here
+    [post_type] => dzsap_items
+    [post_status] => publish
+    [post_name] => 
+    [img_url] => 
+    [img_path] => 
+    [term] => 
+    [taxonomy] => 
+    [attach_id] => 
+    [dzsvp_thumb] => 
+    [dzsvp_item_type] => detect
+    [dzsvp_featured_media] => 
+    [post_author] => 5
+)
+</pre><pre>Array
+(
+    [post_type] => dzsap_items
+    [post_title] => Lối Nhỏ - Đen ft. Phương Anh Đào
+    [post_content] => content here
+    [post_status] => publish
+)
+</pre>
+[07-Oct-2021 01:31:22 UTC] term_exists - zoomsounds-product-playlist-285 --- dzsap_sliders --- 
+[07-Oct-2021 01:32:10 UTC] term_exists - zoomsounds-product-playlist-284 --- dzsap_sliders --- 
+[07-Oct-2021 06:35:29 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:00:36 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Unknown MySQL error với truy vấn UPDATE `wpzd_options` SET `option_value` = 'a:2:{i:0;s:25:\"{{WP_PLUGIN_DIR}}/jetpack\";i:1;s:29:\"{{WP_PLUGIN_DIR}}/woocommerce\";}' WHERE `option_name` = '_transient_jetpack_autoloader_plugin_paths' yêu cầu bởi shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jpf11009ded9fc4592b6a05b61ce272b3c_jetpackⓥ10_2\Shutdown_Handler->__invoke, Automattic\Jetpack\Autoloader\jpf11009ded9fc4592b6a05b61ce272b3c_jetpackⓥ10_2\Plugins_Handler->cache_plugins, set_transient, update_option
+[07-Oct-2021 07:16:43 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:16:44 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:16:44 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:16:51 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:16:51 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:16:51 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:31:59 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:31:59 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:31:59 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:32:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:33:46 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:33:46 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:33:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:15 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:15 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:16 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:29 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:29 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 07:35:29 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 08:33:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/tjmxomqe/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[07-Oct-2021 08:54:24 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[07-Oct-2021 08:54:24 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:18 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:18 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:19 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:50:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:13 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:14 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:30 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:42 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:43 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:52:51 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:03 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:05 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:07 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:08 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:08 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:53:13 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:54:17 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:54:17 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:56:20 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:56:20 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 00:58:21 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:00:18 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:00:26 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:01:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:01:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:02:28 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:02:28 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:03:17 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:05:05 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[08-Oct-2021 01:05:05 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:36:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:36:31 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:38:50 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:38:50 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:39:01 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:39:01 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:30 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:41 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:44 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:45 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:45 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:51 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:40:52 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:41:19 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:41:19 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:46:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:46:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[09-Oct-2021 00:46:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 00:55:50 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 00:55:50 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:28:18 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:28:18 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:28:43 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:28:43 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:30:24 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:30:24 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:31:10 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:31:10 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:33:42 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[11-Oct-2021 01:33:42 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[12-Oct-2021 01:03:28 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[12-Oct-2021 01:03:28 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[12-Oct-2021 01:15:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[12-Oct-2021 01:15:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tjmxomqe/public_html/wp-content/plugins/miniorange-login-openid/class-mo-openid-login-widget.php on line 1351
+[12-Oct-2021 06:24:52 UTC] user:WP_User Object
+(
+    [data] => stdClass Object
+        (
+            [ID] => 12
+            [user_login] => thienphu@gmail.com
+            [user_pass] => $P$BOcMkGmIod21P2k8OaHOfLAp/EKVzq1
+            [user_nicename] => thienphugmail-com
+            [user_email] => thienphu@gmail.com
+            [user_url] => 
+            [user_registered] => 2021-10-12 06:24:52
+            [user_activation_key] => 
+            [user_status] => 0
+            [display_name] => Thiên Phú
+        )
+
+    [ID] => 12
+    [caps] => Array
+        (
+            [employee] => 1
+        )
+
+    [cap_key] => wpzd_capabilities
+    [roles] => Array
+        (
+            [0] => employee
+        )
+
+    [allcaps] => Array
+        (
+            [read] => 1
+            [upload_files] => 1
+            [erp_view_list] => 1
+            [erp_list_employee] => 1
+            [erp_view_employee] => 1
+            [erp_edit_employee] => 1
+            [erp_view_jobinfo] => 1
+            [erp_leave_create_request] => 1
+            [erp_view_announcement] => 1
+            [erp_create_experience] => 1
+            [erp_edit_experience] => 1
+            [erp_view_experience] => 1
+            [erp_delete_experience] => 1
+            [erp_create_education] => 1
+            [erp_edit_education] => 1
+            [erp_view_education] => 1
+            [erp_delete_education] => 1
+            [erp_create_dependent] => 1
+            [erp_edit_dependent] => 1
+            [erp_view_dependent] => 1
+            [erp_delete_dependent] => 1
+            [erp_create_document] => 1
+            [erp_edit_document] => 1
+            [erp_view_document] => 1
+            [erp_delete_document] => 1
+            [erp_view_attendance] => 1
+            [employee] => 1
+        )
+
+    [filter] => 
+    [site_id:WP_User:private] => 1
+)
+
